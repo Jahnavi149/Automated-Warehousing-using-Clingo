@@ -7,4 +7,5 @@
 6. This is a simplefied version of automated planning done in Amazon Warehouses.
  ![Example image of Automated Amazon Warehouse](Warehouse.jpg)
 
-# To run from the command line: clingo demo.asp inst.asp -c n=10 0
+# To run from the command line:
+clingo demo.asp inst.asp -c n=10 0
